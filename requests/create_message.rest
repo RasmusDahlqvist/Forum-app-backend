@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/messages
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkdvdGVua3MiLCJpZCI6IjVmNmNhMTk1OTY0NTg2MWJhNGQ4NzA0YyIsImlhdCI6MTYwMDk1NDc5Nn0.b_unIyjlIm02tBtUsijChw9oX8N18I-C-91NSxpwqeU
+{
+    "content": "bearer autentikaatio",
+        
+}
